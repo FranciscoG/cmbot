@@ -20,12 +20,13 @@
     "node": ">=8"
   },
   "dependencies": {
-    "node-url-shortener": "^1.1.11",
-    "ntwitter": "*",
+    "ntwitter": "latest",
     "simple-lastfm": "^1.0.6",
     "ttapi": "^4.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^8.27.0"
+  },
   "optionalDependencies": {
     "mysql": ">= 2.0.0",
     "sqlite3": "*"
