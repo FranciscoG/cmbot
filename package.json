@@ -20,7 +20,7 @@
     "node": ">=8"
   },
   "dependencies": {
-    "ntwitter": "latest",
+    "ntwitter": "0.5.0",
     "simple-lastfm": "^1.0.6",
     "ttapi": "^4.0.1"
   },
@@ -28,7 +28,7 @@
     "eslint": "^8.27.0"
   },
   "optionalDependencies": {
-    "mysql": ">= 2.0.0",
-    "sqlite3": "*"
+    "mysql": "^2.0.0",
+    "sqlite3": "^5.1.2"
   }
 }
