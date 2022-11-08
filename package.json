@@ -1,17 +1,16 @@
 {
   "name": "cmbot",
   "description": "A full featured bot for turntable.fm",
-  "version": "0.9.13",
+  "version": "0.9.14",
   "keywords": [
     "turntable.fm",
-    "turntable",
-    "stickybits"
+    "turntable"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/atomjack/cmbot.git"
+    "url": "github:FranciscoG/cmbot"
   },
-  "author": "Chris Bellew <atomjack@gmail.com>",
+  "author": "Chris Bellew & FranciscoG",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
