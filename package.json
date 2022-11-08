@@ -20,18 +20,13 @@
     "node": "*"
   },
   "dependencies": {
-    "crypto": ">= 0.0.3",
     "dateformat": "*",
     "http-get": "*",
     "jsdom": "*",
     "node-url-shortener": "^1.1.11",
     "ntwitter": "*",
-    "path": "*",
-    "querystring": ">= 0.1.0",
     "simple-lastfm": "^1.0.6",
-    "sprintf": "*",
-    "ttapi": "^4.0.1",
-    "xml2js": ">= 0.1.13"
+    "ttapi": "^4.0.1"
   },
   "devDependencies": {},
   "optionalDependencies": {
