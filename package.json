@@ -20,7 +20,6 @@
     "node": ">=8"
   },
   "dependencies": {
-    "jsdom": "*",
     "node-url-shortener": "^1.1.11",
     "ntwitter": "*",
     "simple-lastfm": "^1.0.6",
